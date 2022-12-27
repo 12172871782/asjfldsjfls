@@ -3,6 +3,8 @@ license: creativeml-openrail-m
 tags:
 - text-to-image
 - stable-diffusion
+- furry
+- anything-3_0
 ---
 
 ![images](https://cdn.discordapp.com/attachments/1050047774315532300/1057079481581445230/grid-0005.png)
